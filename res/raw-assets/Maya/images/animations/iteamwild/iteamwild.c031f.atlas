@@ -1,0 +1,55 @@
+
+iteamwild.png
+size: 495,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 200, 192
+  orig: 200, 192
+  offset: 0, 0
+  index: -1
+daucho
+  rotate: true
+  xy: 361, 80
+  size: 114, 121
+  orig: 114, 121
+  offset: 0, 0
+  index: -1
+momcho
+  rotate: true
+  xy: 447, 10
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+rb1
+  rotate: true
+  xy: 361, 37
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+rb2
+  rotate: true
+  xy: 351, 17
+  size: 18, 62
+  orig: 18, 62
+  offset: 0, 0
+  index: -1
+thancho
+  rotate: false
+  xy: 204, 74
+  size: 155, 120
+  orig: 155, 120
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 204, 18
+  size: 145, 54
+  orig: 145, 54
+  offset: 0, 0
+  index: -1

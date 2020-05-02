@@ -1,0 +1,62 @@
+
+bonusfreespin.png
+size: 1153,899
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 935, 77
+  size: 152, 290
+  orig: 152, 290
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 935, 369
+  size: 188, 309
+  orig: 188, 309
+  offset: 0, 0
+  index: -1
+astext
+  rotate: true
+  xy: 720, 73
+  size: 824, 213
+  orig: 824, 213
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 2, 2
+  size: 431, 73
+  orig: 431, 73
+  offset: 0, 0
+  index: -1
+freespin
+  rotate: false
+  xy: 435, 10
+  size: 423, 61
+  orig: 423, 61
+  offset: 0, 0
+  index: -1
+iteamfreespin
+  rotate: true
+  xy: 935, 680
+  size: 217, 216
+  orig: 217, 216
+  offset: 0, 0
+  index: -1
+khaytien
+  rotate: false
+  xy: 2, 77
+  size: 510, 102
+  orig: 510, 102
+  offset: 0, 0
+  index: -1
+sangnen
+  rotate: false
+  xy: 2, 181
+  size: 716, 716
+  orig: 716, 716
+  offset: 0, 0
+  index: -1

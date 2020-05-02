@@ -1,0 +1,41 @@
+
+mpoker.png
+size: 516,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aduoi
+  rotate: true
+  xy: 368, 2
+  size: 125, 85
+  orig: 125, 85
+  offset: 0, 0
+  index: -1
+atren
+  rotate: false
+  xy: 368, 129
+  size: 146, 89
+  orig: 146, 89
+  offset: 0, 0
+  index: -1
+chip
+  rotate: true
+  xy: 201, 50
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+nen
+  rotate: true
+  xy: 2, 3
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 201, 3
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1

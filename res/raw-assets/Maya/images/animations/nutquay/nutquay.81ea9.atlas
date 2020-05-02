@@ -1,0 +1,41 @@
+
+nutquay.png
+size: 154,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asq
+  rotate: false
+  xy: 2, 330
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+btnquay
+  rotate: false
+  xy: 2, 2
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+mainbtn
+  rotate: false
+  xy: 2, 195
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+mainbtn2
+  rotate: false
+  xy: 2, 60
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+vongquay
+  rotate: false
+  xy: 2, 465
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1

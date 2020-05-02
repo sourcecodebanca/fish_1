@@ -1,0 +1,307 @@
+
+micodin.png
+size: 1145,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 672, 463
+  size: 143, 172
+  orig: 145, 174
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 376, 425
+  size: 142, 181
+  orig: 144, 183
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 618, 88
+  size: 142, 172
+  orig: 144, 174
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 474, 76
+  size: 142, 172
+  orig: 144, 174
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 474, 250
+  size: 142, 173
+  orig: 144, 175
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 846, 463
+  size: 143, 172
+  orig: 145, 174
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 618, 262
+  size: 142, 172
+  orig: 144, 174
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 228, 420
+  size: 146, 186
+  orig: 148, 188
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 908, 290
+  size: 142, 171
+  orig: 144, 173
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 762, 119
+  size: 143, 170
+  orig: 145, 172
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 520, 436
+  size: 150, 170
+  orig: 152, 172
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 762, 291
+  size: 144, 170
+  orig: 146, 172
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 907, 117
+  size: 143, 171
+  orig: 145, 173
+  offset: 1, 1
+  index: -1
+Group 109
+  rotate: true
+  xy: 1052, 134
+  size: 159, 62
+  orig: 159, 62
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 2, 2
+  size: 33, 65
+  orig: 35, 67
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: true
+  xy: 317, 47
+  size: 64, 80
+  orig: 66, 82
+  offset: 1, 1
+  index: -1
+aolongsau
+  rotate: false
+  xy: 1059, 30
+  size: 66, 102
+  orig: 68, 104
+  offset: 1, 1
+  index: -1
+aplongtruoc
+  rotate: false
+  xy: 399, 47
+  size: 70, 64
+  orig: 72, 66
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 2, 197
+  size: 224, 409
+  orig: 224, 409
+  offset: 0, 0
+  index: -1
+cangtayphai
+  rotate: false
+  xy: 228, 126
+  size: 92, 74
+  orig: 94, 76
+  offset: 1, 1
+  index: -1
+cangtaytrai
+  rotate: false
+  xy: 720, 14
+  size: 39, 72
+  orig: 42, 73
+  offset: 3, 1
+  index: -1
+canhtayphai
+  rotate: true
+  xy: 340, 189
+  size: 45, 125
+  orig: 47, 127
+  offset: 1, 1
+  index: -1
+canhtaytrai
+  rotate: true
+  xy: 471, 11
+  size: 63, 71
+  orig: 65, 73
+  offset: 1, 1
+  index: -1
+chehu
+  rotate: true
+  xy: 228, 202
+  size: 216, 110
+  orig: 216, 110
+  offset: 0, 0
+  index: -1
+daumatnham
+  rotate: false
+  xy: 520, 426
+  size: 31, 8
+  orig: 33, 10
+  offset: 1, 1
+  index: -1
+daumatsang
+  rotate: false
+  xy: 172, 5
+  size: 48, 30
+  orig: 50, 32
+  offset: 1, 1
+  index: -1
+dauodin
+  rotate: true
+  xy: 762, 25
+  size: 92, 105
+  orig: 94, 107
+  offset: 1, 1
+  index: -1
+duiphai
+  rotate: false
+  xy: 1020, 468
+  size: 118, 138
+  orig: 121, 140
+  offset: 1, 1
+  index: -1
+duitrai
+  rotate: false
+  xy: 1052, 295
+  size: 82, 171
+  orig: 84, 173
+  offset: 1, 1
+  index: -1
+set1
+  rotate: true
+  xy: 1116, 250
+  size: 43, 27
+  orig: 45, 29
+  offset: 1, 1
+  index: -1
+set2
+  rotate: false
+  xy: 113, 3
+  size: 57, 32
+  orig: 59, 34
+  offset: 1, 1
+  index: -1
+set3
+  rotate: false
+  xy: 380, 9
+  size: 57, 36
+  orig: 59, 38
+  offset: 1, 1
+  index: -1
+set4
+  rotate: false
+  xy: 544, 28
+  size: 65, 46
+  orig: 67, 48
+  offset: 1, 1
+  index: -1
+set5
+  rotate: false
+  xy: 317, 7
+  size: 61, 38
+  orig: 63, 40
+  offset: 1, 1
+  index: -1
+taynam
+  rotate: true
+  xy: 69, 2
+  size: 33, 42
+  orig: 35, 44
+  offset: 1, 1
+  index: -1
+tayset1
+  rotate: true
+  xy: 322, 113
+  size: 74, 88
+  orig: 76, 90
+  offset: 1, 1
+  index: -1
+tayset2
+  rotate: false
+  xy: 225, 34
+  size: 90, 90
+  orig: 92, 92
+  offset: 1, 1
+  index: -1
+tayset3
+  rotate: false
+  xy: 869, 23
+  size: 97, 92
+  orig: 99, 94
+  offset: 1, 1
+  index: -1
+tayset4
+  rotate: true
+  xy: 968, 18
+  size: 97, 89
+  orig: 99, 91
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 2, 37
+  size: 158, 221
+  orig: 160, 223
+  offset: 1, 1
+  index: -1
+thatlung
+  rotate: true
+  xy: 340, 236
+  size: 182, 132
+  orig: 184, 134
+  offset: 1, 1
+  index: -1
+toc
+  rotate: true
+  xy: 412, 128
+  size: 59, 56
+  orig: 61, 58
+  offset: 1, 1
+  index: -1
+vatquansau
+  rotate: true
+  xy: 618, 27
+  size: 59, 100
+  orig: 61, 102
+  offset: 1, 1
+  index: -1

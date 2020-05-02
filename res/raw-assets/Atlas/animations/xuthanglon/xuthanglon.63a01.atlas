@@ -1,0 +1,316 @@
+
+xuthanglon.png
+size: 1200,1196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0003_thanglon0037
+  rotate: false
+  xy: 2, 816
+  size: 975, 378
+  orig: 1000, 563
+  offset: 21, 0
+  index: -1
+_0004_thanglon0036
+  rotate: false
+  xy: 2, 419
+  size: 946, 395
+  orig: 1000, 563
+  offset: 34, 0
+  index: -1
+_0005_thanglon0035
+  rotate: false
+  xy: 2, 9
+  size: 915, 408
+  orig: 1000, 563
+  offset: 48, 0
+  index: -1
+_0024_thanglon0016
+  rotate: true
+  xy: 919, 2
+  size: 415, 279
+  orig: 1000, 563
+  offset: 266, 225
+  index: -1
+_0026_thanglon0014
+  rotate: true
+  xy: 950, 460
+  size: 354, 245
+  orig: 1000, 563
+  offset: 292, 252
+  index: -1
+_0028_thanglon0012
+  rotate: true
+  xy: 979, 890
+  size: 304, 200
+  orig: 1000, 563
+  offset: 320, 274
+  index: -1
+_0039_thanglon0001
+  rotate: false
+  xy: 979, 827
+  size: 65, 61
+  orig: 1000, 563
+  offset: 469, 314
+  index: -1
+
+xuthanglon2.png
+size: 1192,1195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0001_thanglon0039
+  rotate: false
+  xy: 2, 847
+  size: 889, 346
+  orig: 1000, 563
+  offset: 42, 0
+  index: -1
+_0008_thanglon0032
+  rotate: true
+  xy: 452, 10
+  size: 835, 435
+  orig: 1000, 563
+  offset: 86, 7
+  index: -1
+_0009_thanglon0031
+  rotate: true
+  xy: 2, 2
+  size: 843, 448
+  orig: 1000, 563
+  offset: 62, 2
+  index: -1
+_0023_thanglon0017
+  rotate: true
+  xy: 893, 752
+  size: 441, 297
+  orig: 1000, 563
+  offset: 258, 210
+  index: -1
+_0025_thanglon0015
+  rotate: true
+  xy: 889, 186
+  size: 381, 262
+  orig: 1000, 563
+  offset: 279, 239
+  index: -1
+_0029_thanglon0011
+  rotate: false
+  xy: 889, 569
+  size: 265, 181
+  orig: 1000, 563
+  offset: 338, 283
+  index: -1
+_0030_thanglon0010
+  rotate: false
+  xy: 889, 6
+  size: 234, 178
+  orig: 1000, 563
+  offset: 359, 290
+  index: -1
+
+xuthanglon3.png
+size: 1198,1200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0006_thanglon0034
+  rotate: false
+  xy: 2, 798
+  size: 886, 400
+  orig: 1000, 563
+  offset: 63, 21
+  index: -1
+_0007_thanglon0033
+  rotate: false
+  xy: 2, 412
+  size: 861, 384
+  orig: 1000, 563
+  offset: 75, 48
+  index: -1
+_0016_thanglon0024
+  rotate: false
+  xy: 2, 2
+  size: 640, 408
+  orig: 1000, 563
+  offset: 159, 74
+  index: -1
+_0019_thanglon0021
+  rotate: false
+  xy: 644, 49
+  size: 552, 361
+  orig: 1000, 563
+  offset: 205, 139
+  index: -1
+_0027_thanglon0013
+  rotate: true
+  xy: 890, 863
+  size: 335, 222
+  orig: 1000, 563
+  offset: 306, 264
+  index: -1
+_0031_thanglon0009
+  rotate: false
+  xy: 890, 701
+  size: 214, 160
+  orig: 1000, 563
+  offset: 370, 297
+  index: -1
+_0032_thanglon0008
+  rotate: false
+  xy: 865, 559
+  size: 199, 140
+  orig: 1000, 563
+  offset: 373, 304
+  index: -1
+_0033_thanglon0007
+  rotate: false
+  xy: 865, 442
+  size: 175, 115
+  orig: 1000, 563
+  offset: 391, 309
+  index: -1
+_0034_thanglon0006
+  rotate: true
+  xy: 1066, 559
+  size: 140, 112
+  orig: 1000, 563
+  offset: 416, 309
+  index: -1
+_0035_thanglon0005
+  rotate: false
+  xy: 1042, 455
+  size: 123, 102
+  orig: 1000, 563
+  offset: 423, 309
+  index: -1
+_0037_thanglon0003
+  rotate: true
+  xy: 1106, 771
+  size: 90, 88
+  orig: 1000, 563
+  offset: 441, 308
+  index: -1
+_0038_thanglon0002
+  rotate: false
+  xy: 1114, 1121
+  size: 75, 77
+  orig: 1000, 563
+  offset: 455, 309
+  index: -1
+
+xuthanglon4.png
+size: 1172,1190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_thanglon0040
+  rotate: false
+  xy: 2, 2
+  size: 882, 318
+  orig: 1000, 563
+  offset: 63, 10
+  index: -1
+_0002_thanglon0038
+  rotate: true
+  xy: 814, 322
+  size: 866, 356
+  orig: 1000, 563
+  offset: 53, 5
+  index: -1
+_0010_thanglon0030
+  rotate: false
+  xy: 2, 762
+  size: 810, 426
+  orig: 1000, 563
+  offset: 80, 29
+  index: -1
+_0011_thanglon0029
+  rotate: false
+  xy: 2, 353
+  size: 783, 407
+  orig: 1000, 563
+  offset: 92, 56
+  index: -1
+_0036_thanglon0004
+  rotate: false
+  xy: 886, 222
+  size: 108, 98
+  orig: 1000, 563
+  offset: 428, 308
+  index: -1
+
+xuthanglon5.png
+size: 1190,1152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0012_thanglon0028
+  rotate: false
+  xy: 433, 63
+  size: 755, 391
+  orig: 1000, 563
+  offset: 103, 81
+  index: -1
+_0013_thanglon0027
+  rotate: false
+  xy: 2, 675
+  size: 723, 475
+  orig: 1000, 563
+  offset: 117, 0
+  index: -1
+_0014_thanglon0026
+  rotate: true
+  xy: 727, 456
+  size: 694, 450
+  orig: 1000, 563
+  offset: 131, 25
+  index: -1
+_0015_thanglon0025
+  rotate: true
+  xy: 2, 2
+  size: 671, 429
+  orig: 1000, 563
+  offset: 145, 50
+  index: -1
+
+xuthanglon6.png
+size: 1092,933
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0017_thanglon0023
+  rotate: true
+  xy: 2, 326
+  size: 605, 390
+  orig: 1000, 563
+  offset: 174, 97
+  index: -1
+_0018_thanglon0022
+  rotate: true
+  xy: 394, 357
+  size: 574, 381
+  orig: 1000, 563
+  offset: 192, 118
+  index: -1
+_0020_thanglon0020
+  rotate: false
+  xy: 506, 20
+  size: 531, 335
+  orig: 1000, 563
+  offset: 212, 159
+  index: -1
+_0021_thanglon0019
+  rotate: false
+  xy: 2, 2
+  size: 502, 322
+  orig: 1000, 563
+  offset: 227, 178
+  index: -1
+_0022_thanglon0018
+  rotate: true
+  xy: 777, 465
+  size: 466, 313
+  orig: 1000, 563
+  offset: 248, 194
+  index: -1

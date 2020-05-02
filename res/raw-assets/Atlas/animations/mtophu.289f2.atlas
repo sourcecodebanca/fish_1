@@ -1,0 +1,41 @@
+
+mtophu.png
+size: 256,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TOP Hũ
+  rotate: false
+  xy: 147, 27
+  size: 107, 31
+  orig: 107, 31
+  offset: 0, 0
+  index: -1
+arow
+  rotate: true
+  xy: 222, 74
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 82, 60
+  size: 138, 25
+  orig: 138, 25
+  offset: 0, 0
+  index: -1
+cup
+  rotate: true
+  xy: 82, 2
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: false
+  xy: 2, 7
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

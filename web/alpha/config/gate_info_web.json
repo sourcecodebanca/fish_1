@@ -1,0 +1,365 @@
+{
+    "version": 1,
+    "version_app": 1,
+    "link_store": "https://taib29.vip",
+    "notify_live": "Chào mừng bạn đến với cổng game B29.CLUB",
+    "api": {
+        "VQMM": {
+            "GetSpinLeftVQMM": "https://account.b24core.com/api/VongQuayMayMan/GetSpinLeftVQMM",
+            "GetResultSpinVQMMCap": "https://account.b24core.com/api/VongQuayMayMan/GetResultSpinVQMMCap",
+            "GetRankingVQMM": "https://account.b24core.com/Api/VongQuayMayMan/GetRankingVQMM",
+            "GetHistoryVQMM": "https://account.b24core.com/Api/VongQuayMayMan/GetHistoryVQMM"
+        },
+        "GetListBannerPopup": "https://account.b24core.com/Api/portalInfo/GetListBannerPopup",
+        "withDrawWallet": "https://thethao.b24core.com/api/wallet/withdraw",
+        "TransferWallet": "https://thethao.b24core.com/api/wallet/deposit",
+        "InfoWallet": "https://wallet.b24core.com/api/TransferInfo",
+        "SportWallet": "https://thethao.b24core.com/api/Wallet/TransferInfo",
+        "GetVinhDanhXHu": "https://account.b24core.com/api/PortalInfo/GetVinhDanhXHu",
+        "GetXHuByGame": "https://account.b24core.com/api/PortalInfo/GetXHuByGame",
+        "GetXHuAllGame": "https://account.b24core.com/api/PortalInfo/GetXHuAllGame",
+        "GetJackpotAndNotify": "https://account.b24core.com/api/PortalInfo/GetJackpotAndNotify",
+        "UsingGiftCode": "https://account.b24core.com/API/Account/UsingGiftCode",
+        "GetTotalUnreadInbox": "https://account.b24core.com/Api/Account/GetTotalUnreadInbox",
+        "GetListInbox": "https://account.b24core.com/Api/Account/GetListInbox",
+        "GetInboxDetail": "https://account.b24core.com/Api/Account/GetInboxDetail",
+        "DeleteInbox": "https://account.b24core.com/Api/Account/DeleteInbox",
+        "ReceiptInboxPrize": "https://account.b24core.com/Api/Account/ReceiptInboxPrize",
+        "GetOTPForgetPass": "https://account.b24core.com/Api/ProcessSecurity/ProcessGetOtpOdpGetPass",
+        "GetOTPLoggined": "https://account.b24core.com/Api/ProcessSecurity/ProcessGetOtpOdp",
+        "GetOTPTest": "https://account.b24core.com/api/Account/GenerateOtpTest",
+        "ProcessOtp": "https://account.b24core.com/Api/ProcessSecurity/ProcessOtp",
+        "ProcessOtpOpenAuthen": "https://account.b24core.com/Api/ProcessSecurity/ProcessOtpOpenAuthen",
+        "GetListSoiCau": "https://taixiu.b24core.com/Api/LuckyDice/GetListSoiCau",
+        "GetTopDailyWinnersTX": "https://taixiu.b24core.com/Api/LuckyDice/GetTopDailyWinners",
+        "GetAccountHistoryTX": "https://taixiu.b24core.com/Api/LuckyDice/GetAccountHistory",
+        "GetSessionDetails": "https://taixiu.b24core.com/Api/LuckyDice/GetSessionDetails",
+        "TranferStarToCoin": "https://account.b24core.com/Api/BalanceTransaction/TranferStarToCoin",
+        "GetListAvatar": "https://account.b24core.com/Api/Account/GetListAvatar",
+        "UpdateAvatar": "https://account.b24core.com/Api/Account/UpdateAvatar",
+        "Transfer": "https://account.b24core.com/Api/BalanceTransaction/TransferStar",
+        "GetPolicyTransfer": "https://account.b24core.com/Api/BalanceTransaction/GetPolicyTransfer",
+        "GetBalanceSms": "https://account.b24core.com/Api/Account/GetAccountFullBalanceSms",
+        "ResetPassword": "https://account.b24core.com/Api/Account/ResetPassword",
+        "Login": "https://account.b24core.com/Api/Account/LoginMobile",
+        "Logout": "https://account.b24core.com/Api/Account/Logout",
+        "LogoutWeb": "https://account.b24core.com/Api/Account/logout?continueUrl=https%3A%2F%2Fb29.club%2F",
+        "LoginOTP": "https://account.b24core.com/Api/Account/LoginUserUsingOtp",
+        "FacebookLoginMobile": "https://account.b24core.com/Api/Account/FacebookLoginMobile",
+        "CreateAccounts": "https://account.b24core.com/Api/Account/QuickRegister",
+        "GetAuthenSecureInfo": "https://account.b24core.com/Api/AccountSecurity/GetAuthenSecureInfo",
+        "SetupAuthenSecure": "https://account.b24core.com/Api/AccountSecurity/SetupAuthenSecure",
+        "GetAccountInfo": "https://account.b24core.com/Api/Account/GetAccountInfo",
+        "GetCaptcha": "https://account.b24core.com/Api/Captcha/Get",
+        "GetBalanceFreeze": "https://account.b24core.com/Api/BalanceTransaction/GetFreezeStarInfo",
+        "AccountFreeze": "https://account.b24core.com/Api/BalanceTransaction/FreeStar",
+        "AccountChangePassword": "https://account.b24core.com/Api/Account/ChangePass",
+        "GetHistory": "https://account.b24core.com/Api/Account/GetAccountHistory",
+        "UpdateNickName": "https://account.b24core.com/Api/Account/UpdateNickName",
+        "GetListAgency": "https://account.b24core.com/api/Account/GetListAgency",
+        "ChangeSMSPlusMobile": "https://account.b24core.com/Api/AccountSecurity/ChangeSMSPlusMobile",
+        "VerifyMobileNumber": "https://account.b24core.com/Api/AccountSecurity/VerifyMobileNumber",
+        "ResetPhoneNumber": "https://account.b24core.com/Api/AccountSecurity/UnVerifyMobileNumber",
+        "GetSmsPlusMobileInfo": "https://account.b24core.com/Api/AccountSecurity/GetSmsPlusMobileInfo",
+        "TelcoPayment": "https://account.b24core.com/Api/BalanceTransaction/TopupBalanceUseCardTelco",
+        "GetBalanceOnly": "https://account.b24core.com/api/Account/GetAccountBalanceOnly",
+        "GetMomoData": "https://account.b24core.com/Api/BalanceTransaction/GetMomoData",
+        "GetCauSede": "https://xocdia.b24core.com/api/history/XocDiaGetResultHistory",
+        "GetTopSede": "https://xocdia.b24core.com/api/history/XocDiaBxhNgay",
+        "GetHistorySede": "https://xocdia.b24core.com/api/history/XocDiaAccountHistory",
+        "GetTopBauCuaXoi": "https://baucua.b24core.com/api/BauCua/getTopDailyWinners",
+        "GetHistoryBauCuaXoi": "https://baucua.b24core.com/api/BauCua/GetAccountHistory",
+        "GetHistoryBauCuaXoiDetail": "https://baucua.b24core.com/api/BauCua/GetAccountHistoryDetail",
+		"GetListBCXSoiCau": "https://baucua.b24core.com/api/BauCua/GetListSoiCau?top=30",
+        "Loyal": {
+            "GetListLevels": "https://account.b24core.com/api/loyalty/GetListLevels",
+            "GetAccountInfo": "https://account.b24core.com/api/loyalty/GetAccountInfo",
+            "ExchangeVPToCoin": "https://account.b24core.com/api/loyalty/ExchangeVPToCoin",
+            "UserGetHistory": "https://account.b24core.com/api/loyalty/UserGetHistory",
+            "EventGetInfo": "https://account.b24core.com/api/loyalty/EventGetInfo",
+            "EventGetPrizeInfo": "https://account.b24core.com/api/loyalty/EventGetPrizeInfo",
+            "EventPrizeRevice": "https://account.b24core.com/api/loyalty/EventPrizeRevice"
+        },
+        "Event": {
+            "ExchangePrizeToStar": "https://taixiu.b24core.com/api/EventRongThan/ExchangePrizeToStar",
+            "GetAccountPrize": "https://taixiu.b24core.com/api/EventRongThan/GetAccountPrize",
+            "GetRongThanNotify": "https://taixiu.b24core.com/api/EventRongThan/GetRongThanNotify",
+            "GetRongThanVinhDanh": "https://taixiu.b24core.com/api/EventRongThan/GetRongThanVinhDanh",
+            "GetEventAlphaBxhAll": "https://taixiu.b24core.com/api/EventRongThan/GetEventAlphaBxhAll"
+        },
+        "Chat": {
+            "negotiate": "https://chat.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://chat.b24core.com/signalr/connect",
+            "hub": "ChatHub"
+        },
+        "AccountBonus": {
+            "GetAccountBonus": "https://account.b24core.com/api/Account/GetAccountBonus",
+            "ReceiveBonus": "https://account.b24core.com/api/Account/Account_ReviceBonus"
+        },
+        "Topup": {
+            "CaptchaTelco": "https://topup.b24core.com/Api/Captcha/Get",
+            "TopupBalanceByCard": "https://topup.b24core.com/api/TopupByCard/TopupBalanceByCard",
+            "TopupCard_GetCardAllow": "https://topup.b24core.com/api/TopupByCard/TopupCard_GetCardAllow",
+            "ByCardCreateOrder": "https://account.b24core.com/api/EshopWebApi/ByCardCreateOrder",
+            "EshopGetCardPrize": "https://account.b24core.com/api/EshopWebApi/EshopGetCardPrize",
+            "GetListTopupHistory": "https://account.b24core.com/api/EshopWebApi/GetListTopupHistory",
+            "GetEshopOrderDetail": "https://account.b24core.com/api/EshopWebApi/GetEshopOrderDetail",
+            "HistoryTopupByCard": "https://topup.b24core.com/api/TopupByCard/HistoryTopupByCard"
+        },
+ "Bank": {
+            "GetBank": "https://topup.b24core.com/Api/AutoBank/GetLstBankAllow",
+            "GetBankWalletAllow": "https://topup.b24core.com/Api/AutoBank/GetBankWalletAllow",
+            "GetInfoBankNN": "https://topup.b24core.com/Api/AutoBank/CreateBankRequest",
+            "GetInfoWallet": "https://topup.b24core.com/Api/AutoBank/CreateWalletRequest",
+            "GCaptcha": "https://topup.b24core.com/Api/Captcha/Get",
+            "BankNNHistory": "https://apibank.b24core.com/api/APIBankNN/BankNNHistory"
+        },
+        "apiBomTan": {
+            "EventGetRank": "https://account.b24core.com/api/Event/EventGetRank",
+            "DiemDanhGetList": "https://account.b24core.com/api/Event/DiemDanhGetList",
+            "DiemDanh": "https://account.b24core.com/api/Event/DiemDanh",
+            "NhiemVuGetList": "https://account.b24core.com/api/Event/NhiemVuGetList",
+            "NhiemVuRevice": "https://account.b24core.com/api/Event/NhiemVuRevice",
+            "EventGetAccountInfo": "https://account.b24core.com/api/Event/EventGetAccountInfo",
+            "EventGetPrizeInfo": "https://account.b24core.com/api/event/EventGetPrizeInfo",
+            "EventPrizeRevice": "https://account.b24core.com/api/event/EventPrizeRevice",
+            "GetTimeEvent": "https://account.b24core.com/api/Event/GetTimeEvent",
+            "RungCayDonLoc": "https://account.b24core.com/api/Event/RungCayDonLoc",
+            "RungCayGetRank": "https://account.b24core.com/api/Event/RungCayGetRank",
+            "DiamontSpin": "https://account.b24core.com/api/Event/DiamontSpin"
+        }
+    },
+    "events": {
+        "openCard11": false,
+        "bannerIdNotOpen": [{
+            "id": 10,
+            "type": 1
+        }],
+        "ReportError": {
+            "id": 7,
+            "enabled": false
+        },
+        "X2BonusMoney": true,
+        "notify": 99,
+        "xJackpot": 6,
+        "alpha": {
+            "id": 5,
+            "enabled": true,
+            "received": false,
+            "startDate": "2019-09-22T00:00:00",
+            "endDate": "2019-09-25T23:59:59"
+        },
+        "thanhDuDay": {
+            "id": 8,
+            "enabled": true,
+            "startDate": "2018-08-01T00:00:00",
+            "endDate": "2019-11-25T23:59:59",
+            "openTab": 1
+        },
+        "huThanh": {
+            "id": 50,
+            "enabled": true,
+            "day": [2, 5],
+            "gameId": 37,
+            "name": "Gem",
+            "isX2": true
+        },
+        "sieuHuMiniPoker": {
+            "id": 51,
+            "enabled": true,
+            "day": [3, 6],
+            "gameId": 19,
+            "name": "MiniPoker - Siêu Hũ Poker",
+            "isX2": true
+        },
+        "khoBauPharaoh": {
+            "id": 52,
+            "enabled": true,
+            "day": [4, 6],
+            "gameId": 44,
+            "name": "Pharaoh - Truy Tìm Kho Báu",
+            "isX2": true
+        },
+        "huThanTai": {
+            "id": 53,
+            "enabled": true,
+            "day": [4, 7],
+            "gameId": 20,
+            "name": "Kim Cương - Hũ Thần Tài",
+            "isX2": true
+        },
+        "x2Panda": {
+            "id": 54,
+            "enabled": true,
+            "day": [4, 7],
+            "gameId": 45,
+            "name": "Panda",
+            "isX2": true
+        },
+        "chienBinhOdin": {
+            "id": 55,
+            "enabled": true,
+            "day": [4, 7],
+            "gameId": 35,
+            "name": "Odin",
+            "isX2": true
+        },
+       "bomtan": {
+            "id": 9,
+                "enabled": false,
+                "countDown": false,
+                "name": "Bom tan 6",
+                "rankLogin": false,
+                "dateStart": "2020-03-30T00:00:00",
+                "dateEnd": "2020-04-26T23:59:59",
+                "openTab": 0,
+                "xPine": [],
+                "playDate": [
+                { "day": "T2", "date": "30/03", "value": 50 }, { "day": "T3", "date": "31/03", "value": 20 }, { "day": "T4", "date": "01/04", "value": 30 }, { "day": "T5", "date": "02/04", "value": 40 },
+                { "day": "T6", "date": "03/04", "value": 50 }, { "day": "T7", "date": "04/04", "value": 80 }, { "day": "CN", "date": "05/04", "value": 100 }, { "day": "T2", "date": "06/04", "value": 50 },
+                { "day": "T3", "date": "07/04", "value": 20 }, { "day": "T4", "date": "08/04", "value": 30 }, { "day": "T5", "date": "09/04", "value": 40 }, { "day": "T6", "date": "10/04", "value": 50 },
+                { "day": "T7", "date": "11/04", "value": 80 }, { "day": "CN", "date": "12/04", "value": 100 }, { "day": "T2", "date": "13/04", "value": 50 }, { "day": "T3", "date": "14/04", "value": 20 },
+                { "day": "T4", "date": "15/04", "value": 30 }, { "day": "T5", "date": "16/04", "value": 40 }, { "day": "T6", "date": "17/04", "value": 50 }, { "day": "T7", "date": "18/04", "value": 80 },
+                { "day": "CN", "date": "19/04", "value": 100 }, { "day": "T2", "date": "20/04", "value": 50 }, { "day": "T3", "date": "21/04", "value": 20 }, { "day": "T4", "date": "22/04", "value": 30 },
+                { "day": "T5", "date": "23/04", "value": 40 }, { "day": "T6", "date": "24/04", "value": 50 }, { "day": "T7", "date": "25/04", "value": 80 }, { "day": "CN", "date": "26/04", "value": 100 }
+            ]
+        },
+		"tanLoc": {
+ "id": 15,
+            "enabled": true,
+            "url_guide": "",
+            "send_msg": {
+                "vip": 5,
+                "money": 5000000
+            },
+            "money_min_tl": 1000,
+            "money_custom_tl": [100000, 500000, 1000000, 2000000, 5000000],
+            "notify_msg": [100000, 200000, 5000000],
+            "message_sent_length": 250,
+            "type_header": 1,
+            "type_footer": 1,
+            "api": {
+                "TanLoc_GetAccountInfo": "https://account.b24core.com/api/tanloc/TanLoc_GetAccountInfo",
+                "TanLoc_NhiemVuGetList": "https://account.b24core.com/api/tanloc/TanLoc_NhiemVuGetList",
+                "TanLoc_AccountPrizeGet": "https://account.b24core.com/api/tanloc/TanLoc_AccountPrizeGet",
+                "TanLoc_GameSession_GetList": "https://account.b24core.com/api/tanloc/TanLoc_GameSession_GetList",
+                "TanLoc_Create": "https://account.b24core.com/api/tanloc/TanLoc_Create",
+                "TanLoc_GetResultXoSo": "https://account.b24core.com/api/tanloc/TanLoc_GetResultXoSo",
+                "TanLoc_BetXoSo": "https://account.b24core.com/api/tanloc/TanLoc_BetXoSo",
+                "TanLoc_AccountPrizeRank_Get": "https://account.b24core.com/api/tanloc/TanLoc_AccountPrizeRank_Get",
+                "TanLoc_AccountPrizeRvice": "https://account.b24core.com/api/tanloc/TanLoc_AccountPrizeRvice",
+                "TanLoc_HistoryBetSession_Get": "https://account.b24core.com/api/tanloc/TanLoc_HistoryBetSession_Get",
+                "TanLocHistory_Get": "https://account.b24core.com/api/tanloc/TanLocHistory_Get",
+                "TanLoc_GetFund": "https://account.b24core.com/api/tanloc/TanLoc_GetFund",
+                "TanLoc_GetVinhDanh": "https://account.b24core.com/api/tanloc/TanLoc_GetVinhDanh",
+                "TanLoc_GetNotify": "https://account.b24core.com/api/tanloc/TanLoc_GetNotify"
+            }
+}
+    },
+    "momoRate": {
+        "show": true,
+        "data": [10000, 20000, 30000, 50000, 100000, 200000, 300000, 500000, 1000000],
+        "rate": 1.1,
+        "optionNote": "<color=yellow>+10%</c>",
+        "shortNote": "<color=yellow>+10%</c> Tiền nạp"
+    },
+    "bankRate": {
+		"show": true,
+		"bonus": 12,
+		"optionNote": "<color=yellow>+12%</c>",
+		"shortNote": "<color=yellow>+12%</c> Tiền nạp"
+	},
+   "cardRate": {
+            "show": true,
+            "optionNote": "<color=yellow>1-0.98</c>",
+            "shortNote": "Tỉ lệ 1-0.98",
+            "rate": {
+                "vina": "1-0.98",
+                "mobi": "1-0.95",
+                "viettel": "1-0.95"
+            }
+        },
+		"wallet": {
+            "show": true,
+            "shortNote": "+10%",
+            "moneyOption": [20000,50000,100000,200000,300000,400000,500000,1000000,2000000,5000000]
+        },
+    "link_otp_tele": "https://t.me/B29ClubBot",
+    "showMiniGame": true,
+    "chargeOpenFirst": 6,
+    "link_store_android": "https://taib29.vip",
+    "link_store_ios": "https://taib29.vip",
+    "VIP": true,
+    "Shop": true,
+    "HotLine": {
+        "vip": 2,
+        "phone": ""
+    },
+    "GroupGame": "https://www.facebook.com/groups/AnhEm.B29/",
+    "GiftCode": true,
+    "CASH_CHAT": 0,
+    "PHONE_CHAT_REQUIRE": {
+        "enabled": false
+    },
+    "Fanpage": "https://www.facebook.com/462234427127824",
+    "News": "https://www.b29.news/",
+     "LiveChat": "https://support.b29.vip",
+    "CSKH": "",
+    "VPKD": "",
+	"TelegramNews": "https://t.me/joinchat/AAAAAEXU_shsILCoJupzow",
+	"TelegramPublic": "https://t.me/joinchat/NkGQ4U0zvRzLO0m2zgF6VA",
+	"Youtube": "https://www.youtube.com/channel/UCG8Re906J5NTC9BbKGPQ80g",
+	"Zalo": "https://zalo.me/g/edgktm266",
+    "IAP": true,
+    "BadWBane": {
+        "enabled": true,
+        "badw": ["dm", "d.m", "dcm", "d.c.m", "dkm", "lon", "vl", "vcl", "vkl", "dcs", "đảng cộng sản", "dmcs", "bộ công an", "công an", "c50", "pc50", "A87", "A46", "A44",
+            "hồ chí minh", "ho chi minh", "hcm"
+        ]
+    },
+    "BadWBaneNickname": {
+        "enabled": true,
+        "badw": ["b29", "b24", "adminb24", "b24admin", "b24vip", "vipb24", "b24club", "dmcs", "bocongan", "congan", "canhsat", "c50", "pc50", "A87", "A46", "A44", "hochiminh", "doconcho",
+            "dangcongsan", "nguyenphutrong", "dm.m", "dcmmm", "admin", "quantrivien", "quantri", "quantrl", "administrator", "admln", "adm", "daily", "luadao", "muaban", "doithe", "thecao"
+        ]
+    },
+    "featureEnable": {
+        "isShowVipPoint": true
+    },
+    "TIMECHAT": 3,
+    "showCertified": false,
+    "isOpenEventDefault": true,
+    "isShowGateCard": true,
+    "isExchange": true,
+    "gameInBanner": [42],
+    "CHARGE": {
+        "enabled": false
+    },
+    "openPopupNotify": { "enabled": false, "urlImg": "https://rs.b24core.com/banner.png", "countDown": 5, "once": false },
+    "isOpenWheel": false,
+    "CHARGE_NOTE": "\n*Thông báo: Mệnh giá thẻ có thể thay đổi trong ngày.\n- Hiện tại chỉ hỗ trợ các mệnh giá sau:\nLưu ý: Nạp sai mệnh giá thẻ dưới bảng sẽ mất luôn thẻ.",
+    "MAINTAIN_CHARGE": "Hệ thống nạp thẻ đang bảo trì, vui lòng quay lại trong vài tiếng tới.",
+    "OTP": "",
+    "EXCHANGE": {
+        "enabled": false
+    },
+    "EXCHANGE_NOTE": "Hệ thống đổi thẻ đang bảo trì, vui lòng quay lại trong vài tiếng tới.",
+    "LINK_REFFER_FB": "https://www.facebook.com/v3.1/dialog/oauth?client_id=404676567061917&redirect_uri=https://fb.gameb24.club/Home/PreloginCallBack",
+    "IS_X2NAP_BETA": {
+        "enabled": true,
+        "toast_beta": "Nhân đôi số tiền nạp với 2 lần nạp đầu tiên.\n Vui lòng quay lại khi game ra mắt"
+    },
+    "NAPDOITHE_BETA": {
+        "enabled": true,
+        "toast_beta": "Tính năng sẽ ra mắt khi chạy chính thức"
+    },
+    "TRANSFERWALLET_BETA": {
+        "enabled": true,
+        "toast_beta": "Tính năng sắp ra mắt"
+    },
+    "MAIN_WALLET_TOAST": {
+        "title": "Tài khoản B29",
+        "description": "Tài khoản B29 dùng để chơi các game:\n tài xỉu, quay hũ, xóc đĩa, xổ số, game bài"
+    },
+    "VIP_LVCHAT": 7
+}

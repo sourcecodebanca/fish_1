@@ -1,0 +1,90 @@
+
+tienxu.png
+size: 222,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_coin2_rotate_fix.0001
+  rotate: false
+  xy: 2, 167
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0001_coin2_rotate_fix.0002
+  rotate: false
+  xy: 2, 112
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0002_coin2_rotate_fix.0003
+  rotate: false
+  xy: 57, 167
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0003_coin2_rotate_fix.0004
+  rotate: false
+  xy: 2, 57
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0004_coin2_rotate_fix.0005
+  rotate: false
+  xy: 57, 112
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0005_coin2_rotate_fix.0006
+  rotate: false
+  xy: 112, 167
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0006_coin2_rotate_fix.0007
+  rotate: false
+  xy: 2, 2
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0007_coin2_rotate_fix.0008
+  rotate: false
+  xy: 57, 57
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0008_coin2_rotate_fix.0009
+  rotate: false
+  xy: 112, 112
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0009_coin2_rotate_fix.0010
+  rotate: false
+  xy: 167, 167
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0010_coin2_rotate_fix.0011
+  rotate: false
+  xy: 57, 2
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+_0011_coin2_rotate_fix.0012
+  rotate: false
+  xy: 112, 57
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1

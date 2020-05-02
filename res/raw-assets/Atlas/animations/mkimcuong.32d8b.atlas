@@ -1,0 +1,62 @@
+
+mkimcuong.png
+size: 356,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kim
+  rotate: false
+  xy: 219, 63
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+bgkimcuong
+  rotate: false
+  xy: 2, 56
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+bgslot
+  rotate: true
+  xy: 219, 104
+  size: 149, 135
+  orig: 149, 135
+  offset: 0, 0
+  index: -1
+cương
+  rotate: false
+  xy: 2, 8
+  size: 146, 46
+  orig: 146, 46
+  offset: 0, 0
+  index: -1
+it1
+  rotate: true
+  xy: 298, 54
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+it3
+  rotate: false
+  xy: 255, 4
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+it5
+  rotate: true
+  xy: 204, 2
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+it7 copy 5
+  rotate: false
+  xy: 150, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

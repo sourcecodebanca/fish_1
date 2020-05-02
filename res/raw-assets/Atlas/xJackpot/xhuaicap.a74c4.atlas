@@ -1,0 +1,48 @@
+
+xhuaicap.png
+size: 504,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 2, 5
+  size: 202, 158
+  orig: 202, 158
+  offset: 0, 0
+  index: -1
+chiakhoa
+  rotate: false
+  xy: 206, 40
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+hu
+  rotate: true
+  xy: 423, 2
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 424, 75
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 332, 86
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 332, 7
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+symbolx2.png
+size: 163,612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asssss
+  rotate: false
+  xy: 2, 450
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 260
+  size: 102, 188
+  orig: 102, 188
+  offset: 0, 0
+  index: -1
+tienthang
+  rotate: true
+  xy: 106, 356
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 106, 294
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+xu1
+  rotate: false
+  xy: 2, 2
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+xu2
+  rotate: false
+  xy: 2, 131
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1

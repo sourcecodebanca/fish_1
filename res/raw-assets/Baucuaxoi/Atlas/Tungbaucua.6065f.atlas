@@ -1,0 +1,223 @@
+
+Tungbaucua.png
+size: 1019,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_dice_030
+  rotate: true
+  xy: 2, 387
+  size: 136, 126
+  orig: 138, 128
+  offset: 1, 1
+  index: -1
+_0001_dice_029
+  rotate: true
+  xy: 387, 388
+  size: 135, 125
+  orig: 138, 128
+  offset: 3, 2
+  index: -1
+_0002_dice_028
+  rotate: true
+  xy: 644, 264
+  size: 127, 124
+  orig: 138, 128
+  offset: 8, 3
+  index: -1
+_0003_dice_027
+  rotate: false
+  xy: 902, 400
+  size: 115, 123
+  orig: 138, 128
+  offset: 15, 4
+  index: -1
+_0004_dice_026
+  rotate: true
+  xy: 250, 10
+  size: 100, 122
+  orig: 138, 128
+  offset: 23, 5
+  index: -1
+_0005_dice_025
+  rotate: true
+  xy: 2, 8
+  size: 101, 122
+  orig: 138, 128
+  offset: 15, 5
+  index: -1
+_0006_dice_024
+  rotate: false
+  xy: 902, 275
+  size: 115, 123
+  orig: 138, 128
+  offset: 8, 4
+  index: -1
+_0007_dice_023
+  rotate: true
+  xy: 644, 135
+  size: 127, 124
+  orig: 138, 128
+  offset: 3, 3
+  index: -1
+_0008_dice_022
+  rotate: true
+  xy: 514, 389
+  size: 134, 125
+  orig: 138, 128
+  offset: 1, 2
+  index: -1
+_0009_dice_021
+  rotate: true
+  xy: 2, 249
+  size: 136, 126
+  orig: 138, 128
+  offset: 1, 1
+  index: -1
+_0010_dice_020
+  rotate: true
+  xy: 130, 112
+  size: 135, 127
+  orig: 138, 128
+  offset: 3, 0
+  index: -1
+_0011_dice_019
+  rotate: true
+  xy: 514, 257
+  size: 130, 128
+  orig: 138, 128
+  offset: 6, 0
+  index: -1
+_0012_dice_018
+  rotate: false
+  xy: 770, 138
+  size: 127, 127
+  orig: 138, 128
+  offset: 5, 0
+  index: -1
+_0013_dice_017
+  rotate: true
+  xy: 641, 393
+  size: 130, 127
+  orig: 138, 128
+  offset: 2, 0
+  index: -1
+_0014_dice_016
+  rotate: true
+  xy: 258, 388
+  size: 135, 127
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+_0015_dice_015
+  rotate: true
+  xy: 2, 111
+  size: 136, 126
+  orig: 138, 128
+  offset: 1, 1
+  index: -1
+_0016_dice_014
+  rotate: true
+  xy: 387, 251
+  size: 135, 125
+  orig: 138, 128
+  offset: 3, 2
+  index: -1
+_0017_dice_013
+  rotate: false
+  xy: 515, 2
+  size: 127, 124
+  orig: 138, 128
+  offset: 8, 3
+  index: -1
+_0018_dice_012
+  rotate: false
+  xy: 899, 25
+  size: 116, 123
+  orig: 138, 128
+  offset: 15, 4
+  index: -1
+_0019_dice_011
+  rotate: true
+  xy: 374, 12
+  size: 100, 122
+  orig: 138, 128
+  offset: 23, 5
+  index: -1
+_0020_dice_010
+  rotate: true
+  xy: 126, 8
+  size: 101, 122
+  orig: 138, 128
+  offset: 15, 5
+  index: -1
+_0021_dice_009
+  rotate: false
+  xy: 902, 150
+  size: 115, 123
+  orig: 138, 128
+  offset: 8, 4
+  index: -1
+_0022_dice_008
+  rotate: false
+  xy: 770, 12
+  size: 127, 124
+  orig: 138, 128
+  offset: 3, 3
+  index: -1
+_0023_dice_007
+  rotate: true
+  xy: 388, 114
+  size: 135, 125
+  orig: 138, 128
+  offset: 0, 2
+  index: -1
+_0024_dice_006
+  rotate: true
+  xy: 130, 387
+  size: 136, 126
+  orig: 138, 128
+  offset: 1, 1
+  index: -1
+_0025_dice_005
+  rotate: true
+  xy: 258, 251
+  size: 135, 127
+  orig: 138, 128
+  offset: 3, 0
+  index: -1
+_0026_dice_004
+  rotate: false
+  xy: 770, 396
+  size: 130, 127
+  orig: 138, 128
+  offset: 6, 0
+  index: -1
+_0027_dice_003
+  rotate: false
+  xy: 515, 128
+  size: 127, 127
+  orig: 138, 128
+  offset: 5, 0
+  index: -1
+_0028_dice_002
+  rotate: false
+  xy: 770, 267
+  size: 130, 127
+  orig: 138, 128
+  offset: 2, 0
+  index: -1
+_0029_dice_001
+  rotate: true
+  xy: 259, 114
+  size: 135, 127
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+_0030_dice_000
+  rotate: true
+  xy: 130, 249
+  size: 136, 126
+  orig: 138, 128
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,34 @@
+
+icx2thenap.png
+size: 252,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 89
+  rotate: false
+  xy: 132, 62
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+Layer 90
+  rotate: true
+  xy: 202, 55
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+Layer 91
+  rotate: false
+  xy: 132, 2
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+as
+  rotate: true
+  xy: 2, 3
+  size: 122, 128
+  orig: 128, 128
+  offset: 3, 0
+  index: -1

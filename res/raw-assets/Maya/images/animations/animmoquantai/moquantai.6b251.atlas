@@ -1,0 +1,27 @@
+
+moquantai.png
+size: 484,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 192, 159
+  size: 152, 290
+  orig: 152, 290
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 188, 309
+  orig: 188, 309
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 192, 5
+  size: 152, 290
+  orig: 152, 290
+  offset: 0, 0
+  index: -1

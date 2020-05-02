@@ -1,0 +1,41 @@
+
+loctroi.png
+size: 414,674
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 43 copy
+  rotate: false
+  xy: 205, 22
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+Layer 44 copy
+  rotate: false
+  xy: 2, 444
+  size: 233, 228
+  orig: 233, 228
+  offset: 0, 0
+  index: -1
+Layer 45 copy
+  rotate: true
+  xy: 2, 233
+  size: 209, 226
+  orig: 209, 226
+  offset: 0, 0
+  index: -1
+Layer 55
+  rotate: false
+  xy: 2, 2
+  size: 201, 229
+  orig: 201, 229
+  offset: 0, 0
+  index: -1
+txt
+  rotate: true
+  xy: 237, 297
+  size: 375, 109
+  orig: 375, 109
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+btndaily.png
+size: 537,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 99
+  size: 244, 81
+  orig: 246, 83
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 270, 359
+  size: 242, 81
+  orig: 244, 83
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 250, 110
+  size: 238, 81
+  orig: 240, 83
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 253, 276
+  size: 239, 81
+  orig: 241, 83
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 16
+  size: 243, 81
+  orig: 245, 83
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 265
+  size: 246, 81
+  orig: 248, 83
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 182
+  size: 246, 81
+  orig: 248, 83
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 348
+  size: 249, 81
+  orig: 251, 83
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 290, 525
+  size: 245, 81
+  orig: 247, 83
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 290, 442
+  size: 245, 81
+  orig: 247, 83
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 2, 431
+  size: 266, 82
+  orig: 268, 84
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 250, 193
+  size: 238, 81
+  orig: 240, 83
+  offset: 1, 1
+  index: -1
+Group 66
+  rotate: false
+  xy: 2, 515
+  size: 286, 91
+  orig: 288, 93
+  offset: 1, 1
+  index: -1
+a
+  rotate: false
+  xy: 367, 2
+  size: 43, 50
+  orig: 45, 52
+  offset: 1, 1
+  index: -1
+canh1
+  rotate: true
+  xy: 412, 74
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+canh2
+  rotate: false
+  xy: 490, 123
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 490, 227
+  size: 47, 45
+  orig: 49, 47
+  offset: 1, 1
+  index: -1
+i
+  rotate: true
+  xy: 490, 99
+  size: 22, 45
+  orig: 24, 47
+  offset: 1, 1
+  index: -1
+l
+  rotate: true
+  xy: 490, 186
+  size: 39, 45
+  orig: 41, 47
+  offset: 1, 1
+  index: -1
+y
+  rotate: false
+  xy: 367, 54
+  size: 43, 54
+  orig: 45, 56
+  offset: 1, 1
+  index: -1
+á
+  rotate: false
+  xy: 248, 17
+  size: 117, 91
+  orig: 119, 93
+  offset: 1, 1
+  index: -1

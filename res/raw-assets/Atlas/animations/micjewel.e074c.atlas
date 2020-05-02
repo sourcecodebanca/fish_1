@@ -1,0 +1,62 @@
+
+micjewel.png
+size: 348,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gems
+  rotate: false
+  xy: 2, 41
+  size: 130, 49
+  orig: 130, 49
+  offset: 0, 0
+  index: -1
+bblit2
+  rotate: false
+  xy: 2, 2
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 202
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+iteam40
+  rotate: false
+  xy: 2, 92
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+iteam41
+  rotate: false
+  xy: 219, 291
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+iteam42
+  rotate: false
+  xy: 120, 92
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+iteam43
+  rotate: true
+  xy: 238, 173
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+iteam44
+  rotate: true
+  xy: 238, 55
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1

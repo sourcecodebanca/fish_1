@@ -1,0 +1,153 @@
+
+thungnohu.png
+size: 1024,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 22
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+_0002_nh0038
+  rotate: true
+  xy: 841, 106
+  size: 95, 104
+  orig: 97, 106
+  offset: 1, 0
+  index: -1
+_0004_nh0036
+  rotate: true
+  xy: 521, 105
+  size: 96, 104
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+_0006_nh0034
+  rotate: true
+  xy: 393, 8
+  size: 95, 104
+  orig: 97, 106
+  offset: 1, 1
+  index: -1
+_0008_nh0032
+  rotate: true
+  xy: 627, 106
+  size: 95, 105
+  orig: 97, 106
+  offset: 1, 0
+  index: -1
+_0010_nh0030
+  rotate: true
+  xy: 734, 106
+  size: 95, 105
+  orig: 97, 106
+  offset: 1, 0
+  index: -1
+_0012_nh0028
+  rotate: true
+  xy: 414, 105
+  size: 96, 105
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+_0014_nh0026
+  rotate: true
+  xy: 306, 105
+  size: 96, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+_0016_nh0024
+  rotate: true
+  xy: 182, 2
+  size: 97, 105
+  orig: 97, 106
+  offset: 0, 1
+  index: -1
+_0018_nh0022
+  rotate: true
+  xy: 289, 2
+  size: 97, 102
+  orig: 97, 106
+  offset: 0, 4
+  index: -1
+_0020_nh0020
+  rotate: true
+  xy: 499, 9
+  size: 94, 99
+  orig: 97, 106
+  offset: 2, 7
+  index: -1
+_0022_nh0018
+  rotate: false
+  xy: 600, 6
+  size: 92, 97
+  orig: 97, 106
+  offset: 3, 9
+  index: -1
+_0024_nh0016
+  rotate: false
+  xy: 694, 16
+  size: 88, 88
+  orig: 97, 106
+  offset: 6, 16
+  index: -1
+_0026_nh0014
+  rotate: false
+  xy: 784, 21
+  size: 82, 83
+  orig: 97, 106
+  offset: 9, 19
+  index: -1
+_0028_nh0012
+  rotate: false
+  xy: 947, 123
+  size: 74, 78
+  orig: 97, 106
+  offset: 14, 22
+  index: -1
+_0030_nh0010
+  rotate: false
+  xy: 868, 34
+  size: 67, 70
+  orig: 97, 106
+  offset: 18, 27
+  index: -1
+_0032_nh0008
+  rotate: true
+  xy: 947, 65
+  size: 56, 60
+  orig: 97, 106
+  offset: 23, 31
+  index: -1
+_0034_nh0006
+  rotate: true
+  xy: 937, 18
+  size: 45, 49
+  orig: 97, 106
+  offset: 28, 37
+  index: -1
+_0036_nh0004
+  rotate: false
+  xy: 988, 29
+  size: 34, 34
+  orig: 97, 106
+  offset: 34, 46
+  index: -1
+_0038_nh0002
+  rotate: true
+  xy: 868, 13
+  size: 19, 20
+  orig: 97, 106
+  offset: 43, 52
+  index: -1
+hp_BigPic_15
+  rotate: false
+  xy: 182, 101
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1

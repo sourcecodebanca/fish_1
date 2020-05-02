@@ -1,0 +1,48 @@
+
+mitthiendia.png
+size: 987,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 101
+  rotate: false
+  xy: 584, 4
+  size: 168, 196
+  orig: 168, 196
+  offset: 0, 0
+  index: -1
+Layer 43
+  rotate: false
+  xy: 754, 22
+  size: 174, 178
+  orig: 174, 178
+  offset: 0, 0
+  index: -1
+Layer 44
+  rotate: true
+  xy: 401, 16
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: false
+  xy: 219, 2
+  size: 180, 198
+  orig: 180, 198
+  offset: 0, 0
+  index: -1
+bgicon
+  rotate: false
+  xy: 2, 3
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+thiendia
+  rotate: true
+  xy: 930, 16
+  size: 184, 55
+  orig: 184, 55
+  offset: 0, 0
+  index: -1

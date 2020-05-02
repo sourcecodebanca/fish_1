@@ -1,0 +1,146 @@
+
+mainsukien.png
+size: 1268,950
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anhsang
+  rotate: false
+  xy: 536, 663
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+autobank
+  rotate: true
+  xy: 1222, 568
+  size: 240, 38
+  orig: 240, 38
+  offset: 0, 0
+  index: -1
+chop1
+  rotate: true
+  xy: 995, 295
+  size: 417, 89
+  orig: 417, 89
+  offset: 0, 0
+  index: -1
+chop2
+  rotate: true
+  xy: 1086, 295
+  size: 417, 89
+  orig: 417, 89
+  offset: 0, 0
+  index: -1
+label
+  rotate: true
+  xy: 1177, 163
+  size: 313, 54
+  orig: 313, 54
+  offset: 0, 0
+  index: -1
+label1
+  rotate: true
+  xy: 1129, 2
+  size: 157, 137
+  orig: 157, 137
+  offset: 0, 0
+  index: -1
+label2
+  rotate: false
+  xy: 1099, 810
+  size: 157, 138
+  orig: 157, 138
+  offset: 0, 0
+  index: -1
+logobank1
+  rotate: true
+  xy: 2, 82
+  size: 576, 238
+  orig: 576, 238
+  offset: 0, 0
+  index: -1
+logomomo
+  rotate: false
+  xy: 2, 2
+  size: 87, 78
+  orig: 87, 78
+  offset: 0, 0
+  index: -1
+logopay2
+  rotate: false
+  xy: 536, 714
+  size: 561, 234
+  orig: 561, 234
+  offset: 0, 0
+  index: -1
+mainxu
+  rotate: false
+  xy: 742, 73
+  size: 385, 86
+  orig: 385, 86
+  offset: 0, 0
+  index: -1
+nen
+  rotate: false
+  xy: 742, 161
+  size: 415, 89
+  orig: 415, 89
+  offset: 0, 0
+  index: -1
+nensang
+  rotate: true
+  xy: 703, 316
+  size: 396, 290
+  orig: 396, 290
+  offset: 0, 0
+  index: -1
+nhanhnhat
+  rotate: false
+  xy: 742, 22
+  size: 374, 49
+  orig: 374, 49
+  offset: 0, 0
+  index: -1
+sao
+  rotate: true
+  xy: 1177, 478
+  size: 330, 43
+  orig: 330, 43
+  offset: 0, 0
+  index: -1
+textnapdau
+  rotate: false
+  xy: 703, 252
+  size: 288, 62
+  orig: 288, 62
+  offset: 0, 0
+  index: -1
+txtx2
+  rotate: false
+  xy: 439, 22
+  size: 301, 210
+  orig: 301, 210
+  offset: 0, 0
+  index: -1
+xu1
+  rotate: true
+  xy: 242, 59
+  size: 599, 195
+  orig: 599, 195
+  offset: 0, 0
+  index: -1
+xu2
+  rotate: false
+  xy: 2, 660
+  size: 532, 288
+  orig: 532, 288
+  offset: 0, 0
+  index: -1
+xu3
+  rotate: true
+  xy: 439, 234
+  size: 424, 262
+  orig: 424, 262
+  offset: 0, 0
+  index: -1

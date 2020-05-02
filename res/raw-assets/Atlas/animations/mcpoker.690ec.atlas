@@ -1,0 +1,76 @@
+
+mcpoker.png
+size: 550,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mini
+  rotate: false
+  xy: 219, 16
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+POKER
+  rotate: true
+  xy: 219, 53
+  size: 149, 45
+  orig: 149, 45
+  offset: 0, 0
+  index: -1
+baito_0013_A-♦_
+  rotate: true
+  xy: 375, 21
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+baito_0014_A-♥_
+  rotate: false
+  xy: 485, 115
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+baito_0016_A-♠
+  rotate: false
+  xy: 485, 26
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 5
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 299, 2
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+quay
+  rotate: false
+  xy: 266, 85
+  size: 217, 117
+  orig: 217, 117
+  offset: 0, 0
+  index: -1
+taycam
+  rotate: true
+  xy: 219, 2
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+tron
+  rotate: false
+  xy: 266, 61
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1

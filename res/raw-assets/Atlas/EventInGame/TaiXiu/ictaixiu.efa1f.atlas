@@ -1,0 +1,62 @@
+
+ictaixiu.png
+size: 970,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 51 copy 2
+  rotate: true
+  xy: 429, 8
+  size: 396, 287
+  orig: 396, 301
+  offset: 0, 14
+  index: -1
+Layer 51 copy 3
+  rotate: false
+  xy: 2, 116
+  size: 425, 288
+  orig: 457, 338
+  offset: 32, 18
+  index: -1
+hoa
+  rotate: false
+  xy: 718, 203
+  size: 250, 201
+  orig: 250, 201
+  offset: 0, 0
+  index: -1
+linhthu
+  rotate: false
+  xy: 143, 18
+  size: 159, 35
+  orig: 159, 35
+  offset: 0, 0
+  index: -1
+linhthu2
+  rotate: false
+  xy: 143, 55
+  size: 183, 59
+  orig: 183, 59
+  offset: 0, 0
+  index: -1
+thuy
+  rotate: false
+  xy: 718, 2
+  size: 227, 199
+  orig: 227, 199
+  offset: 0, 0
+  index: -1
+txthoa
+  rotate: true
+  xy: 328, 7
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+txthuy
+  rotate: false
+  xy: 2, 20
+  size: 139, 94
+  orig: 139, 94
+  offset: 0, 0
+  index: -1

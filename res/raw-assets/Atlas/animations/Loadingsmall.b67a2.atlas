@@ -1,0 +1,104 @@
+
+Loadingsmall.png
+size: 323,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 228, 8
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 272, 8
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 205, 8
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 230, 36
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 293, 8
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 253, 36
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 250, 8
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 205, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+khay
+  rotate: false
+  xy: 2, 7
+  size: 201, 55
+  orig: 201, 55
+  offset: 0, 0
+  index: -1
+khungquay
+  rotate: false
+  xy: 297, 41
+  size: 15, 21
+  orig: 17, 23
+  offset: 1, 1
+  index: -1
+loadinglogo copy
+  rotate: false
+  xy: 304, 11
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+thanh
+  rotate: true
+  xy: 2, 2
+  size: 3, 15
+  orig: 5, 17
+  offset: 1, 1
+  index: -1
+tron
+  rotate: false
+  xy: 304, 22
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+u
+  rotate: false
+  xy: 275, 36
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

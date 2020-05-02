@@ -1,0 +1,27 @@
+
+moketqua.png
+size: 1299,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 920, 2
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+aschay
+  rotate: false
+  xy: 920, 69
+  size: 377, 89
+  orig: 377, 89
+  offset: 0, 0
+  index: -1
+nenbai
+  rotate: false
+  xy: 2, 2
+  size: 916, 156
+  orig: 916, 156
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+iteam1.png
+size: 329,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iteam10
+  rotate: true
+  xy: 2, 2
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+iteam11
+  rotate: false
+  xy: 136, 106
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+iteam12
+  rotate: false
+  xy: 232, 106
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+iteam13
+  rotate: true
+  xy: 111, 2
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+iteam14
+  rotate: true
+  xy: 220, 10
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+iteam1nen
+  rotate: false
+  xy: 2, 98
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1

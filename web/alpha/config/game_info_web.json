@@ -1,0 +1,437 @@
+[{
+        "id": 0,
+        "version": 50,
+        "maintain": false,
+        "main": "HomeScene"
+    },
+
+    {
+        "id": 18,
+        "version": 1,
+        "gameType": 2,
+        "name": "Tài Xỉu",
+        "icon": {
+            "type": 1,
+            "name": "mini_18"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "trend_hot",
+        "main": "/TaixiuG/TaiXiu",
+        "api": {
+            "negotiate": "https://taixiu.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://taixiu.b24core.com/signalr/connect",
+            "hub": "MiniGameHub",
+            "soicau": "https://taixiu.b24core.com/Api/LuckyDice/GetListSoiCau",
+            "timeNan": 5
+        }
+    },	
+	 {
+        "id": 46,
+        "version": 1,
+        "gameType": 2,
+        "name": "Bầu cua",
+        "icon": {
+            "type": 1,
+            "name": "mini_46"
+        },
+        "is_biggame": true,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "trend_new",
+        "main": "baucuaxoi",
+        "api": {
+            "negotiate": "https://baucua.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://baucua.b24core.com/signalr/connect",
+            "hub": "BauCuaHub"
+        }
+    },
+	
+    {
+        "id": 37,
+        "version": 1,
+        "gameType": 2,
+        "name": "Gem",
+        "icon": {
+            "type": 1,
+            "name": "mini_37"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "main": "/BomTanG/BomTan",
+        "api": {
+            "negotiate": "https://jewel.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://jewel.b24core.com/signalr/connect",
+            "hub": "GameHub",
+            "history": "https://jewel.b24core.com/API/VinhDanh/GetTransactionHistory",
+            "honor": "https://jewel.b24core.com/API/VinhDanh/GetHonorHistory",
+            "jackpot": "https://jewel.b24core.com/API/VinhDanh/GetJackpotHistory"
+        }
+    },
+   
+    {
+        "id": 20,
+        "version": 1,
+        "gameType": 2,
+        "name": "Kim Cương",
+        "icon": {
+            "type": 1,
+            "name": "mini_20"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "main": "/KimCuongG/KimCuong",
+        "api": {
+            "negotiate": "https://kimcuong.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://kimcuong.b24core.com/signalr/connect",
+            "hub": "gamehub",
+            "history": "https://kimcuong.b24core.com/api/History/GetSpinHistory",
+            "honor": "https://kimcuong.b24core.com/api/History/GetJackpotHistory"
+        }
+    },
+    {
+        "id": 41,
+        "version": 1,
+        "gameType": 2,
+        "name": "Xoc Dia",
+        "icon": {
+            "type": 1,
+            "name": "mini_41"
+        },
+        "is_biggame": true,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "main": "sede",
+        "api": {
+            "negotiate": "https://xocdia.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://xocdia.b24core.com/signalr/connect",
+            "hub": "XocDiaHub"
+        }
+    },
+	{
+        "id": 21,
+        "version": 1,
+        "gameType": 5,
+        "name": "iBet888",
+        "icon": {
+            "type": 1,
+            "name": "mini_21"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "is_framegame": true,
+        "main": "FrameScene",
+        "is_beta": true,
+        "toast_beta": "Game sắp ra mắt",
+        "toast_note": "Tài khoản iBet888 dùng để chơi game betting bóng tỉ lệ cược Malaysia",
+        "note": "Chuyển vào 100.000B = 83. Tối thiểu 100.000B,\n tối đa 100M B. Chuyển ra 83 = 100.000B.\nHệ thống sẽ tự động hoàn trả phần tiền thừa.",
+        "api": {
+            "getAccountInfo": "https://thethao.b24core.com/api/game/GetAccountInfo",
+            "deposit": "https://thethao.b24core.com/api/game/TopupToObPlayer?amount=",
+            "withdraw": "https://thethao.b24core.com/api/game/WithDrawalObPlayer?amount=",
+            "getLink": "https://thethao.b24core.com/api/game/GetGamePlay"
+        },
+        "min": 100000,
+        "max": 100000000
+    },
+   {
+        "id": 42,
+        "version": 1,
+        "gameType": 2,
+        "name": "Xo So",
+        "icon": {
+            "type": 1,
+            "name": "mini_42"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "main": "/LoDe/LoDe",
+        "api": {
+            "negotiate": "https://xoso.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://xoso.b24core.com/signalr/connect",
+            "hub": "Xoso",
+            "GetListBetType": "https://xoso.b24core.com/api/Xoso/GetListBetType",
+            "GetListBetRecent": "https://xoso.b24core.com/api/Xoso/GetListBetRecent",
+            "GetKetQua": "https://xoso.b24core.com/api/Xoso/GetKetQua",
+            "history": "https://xoso.b24core.com/api/Xoso/XsHistory",
+            "honor": "https://xoso.b24core.com/api/Xoso/GetTopWin"
+        }
+    },
+	   {
+        "id": 19,
+        "version": 1,
+        "gameType": 2,
+        "name": "Mini Poker",
+        "icon": {
+            "type": 1,
+            "name": "mini_19"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "main": "/MnPokerG/MiniPoker",
+        "api": {
+            "negotiate": "https://minipoker.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://minipoker.b24core.com/signalr/connect",
+            "hub": "MiniGameHub",
+            "history": "https://minipoker.b24core.com/Api/MiniPoker/GetAccountHistory",
+            "honor": "https://minipoker.b24core.com/Api/MiniPoker/GetTopWinners"
+        }
+    },
+    {
+        "id": 48,
+        "version": 1,
+        "gameType": 3,
+        "name": "Hoàng gia",
+        "icon": {
+            "type": 2,
+            "name": "big_48"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "is_framegame": true,
+        "main": "FrameScene",
+        "is_beta": true,
+        "toast_beta": "Game sắp ra mắt",
+        "toast_note": "Tài khoản hoàng gia dùng để chơi game vua săn cá, fufish(bắn cá jackpot)",
+        "min": 50000,
+        "max": 100000000,
+        "note": "Chuyển vào: 1.000B = 830. Tối thiểu: 50.000B, \n tối đa 100M B. Chuyển ra: 830 = 1.000B \nHệ thống sẽ tự động hoàn trả phần tiền thừa.",
+        "dpi": "xhdpi",
+        "api": {
+            "getAccountInfo": "https://swgame.b24core.com/api/games/GetAccountInfo",
+            "deposit": "https://swgame.b24core.com/api/games/TopupToSwPlayer?amount=",
+            "withdraw": "https://swgame.b24core.com/api/games/WithDrawalSwPlayer?amount=",
+            "getLink": "https://swgame.b24core.com/api/games/GetGamePlay?gameId=1",
+            "createName": "https://swgame.b24core.com/api/games/ManualCreatePartnerAccount?partnerName="
+        }
+    },
+    {
+        "id": 45,
+        "version": 1,
+        "gameType": 3,
+        "name": "Panda",
+        "icon": {
+            "type": 2,
+            "name": "big_45"
+        },
+        "is_biggame": true,
+        "is_jackpot": true,
+        "maintain": false,
+        "trend": "",
+        "is_framegame": false,
+        "main": "Panda",
+        "api": {
+            "negotiate": "https://panda.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://panda.b24core.com/signalr/connect",
+            "hub": "AladdinHub",
+            "history": "https://panda.b24core.com/api/history/GetHistory",
+            "bigWin": "https://panda.b24core.com/api/history/GetBigWin",
+            "jackpot": "https://panda.b24core.com/api/history/GetNoHu"
+        }
+    },
+    {
+        "id": 44,
+        "version": 1,
+        "gameType": 3,
+        "name": "Pharaoh",
+        "icon": {
+            "type": 2,
+            "name": "big_44"
+        },
+        "is_biggame": true,
+        "is_jackpot": true,
+        "maintain": false,
+        "trend": "",
+        "main": "Maya",
+        "api": {
+            "negotiate": "https://pharaoh.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://pharaoh.b24core.com/signalr/connect",
+            "hub": "gameHub",
+            "history": "https://pharaoh.b24core.com/Api/History/GetHistory",
+            "jackpot": "https://pharaoh.b24core.com/Api/Statistic/GetStatistic"
+        }
+    },
+    {
+        "id": 35,
+        "version": 1,
+        "gameType": 3,
+        "name": "Odin",
+        "icon": {
+            "type": 2,
+            "name": "big_35"
+        },
+        "is_biggame": true,
+        "is_jackpot": true,
+        "maintain": false,
+        "trend": "",
+        "main": "Hilap",
+        "api": {
+            "negotiate": "https://odin.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://odin.b24core.com/signalr/connect",
+            "hub": "gameHub",
+            "history": "https://odin.b24core.com/History/GetHistoryPaging",
+            "jackpot": "https://odin.b24core.com/History/GetHistoryJackPot",
+            "honorJackpot": "https://odin.b24core.com/History/GetHonorAndJackpot"
+        }
+    },
+    {
+        "id": 22,
+        "version": 1,
+        "gameType": 3,
+        "name": "Hoàng gia",
+        "icon": {
+            "type": 2,
+            "name": "big_22"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "is_framegame": true,
+        "main": "FrameScene",
+        "is_beta": true,
+        "toast_beta": "Game sắp ra mắt",
+        "toast_note": "Tài khoản hoàng gia dùng để chơi game vua săn cá, fufish(bắn cá jackpot)",
+        "min": 50000,
+        "max": 100000000,
+        "note": "Chuyển vào: 1.000B = 830. Tối thiểu: 50.000B, \n tối đa 100M B. Chuyển ra: 830 = 1.000B \nHệ thống sẽ tự động hoàn trả phần tiền thừa.",
+        "dpi": "xhdpi",
+        "api": {
+            "getAccountInfo": "https://swgame.b24core.com/api/games/GetAccountInfo",
+            "deposit": "https://swgame.b24core.com/api/games/TopupToSwPlayer?amount=",
+            "withdraw": "https://swgame.b24core.com/api/games/WithDrawalSwPlayer?amount=",
+            "getLink": "https://swgame.b24core.com/api/games/GetGamePlay?gameId=2",
+            "createName": "https://swgame.b24core.com/api/games/ManualCreatePartnerAccount?partnerName="
+        }
+    },
+ 
+    {
+        "id": 47,
+        "version": 1,
+        "gameType": 2,
+        "name": "Thiên địa",
+        "icon": {
+            "type": 1,
+            "name": "mini_47"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "main": "/SaEG/thiendia",
+        "api": {
+            "negotiate": "https://thiendia.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://thiendia.b24core.com/signalr/connect",
+            "hub": "GameHub",
+            "history": "https://thiendia.b24core.com/API/History/GetAccountHistory?top=20",
+            "detail": "https://thiendia.b24core.com/API/History/GetAccountHistoryDetail?turnId=",
+            "top": "https://thiendia.b24core.com/API/History/GetTopAccount?top=30",
+            "jackpot": "https://thiendia.b24core.com/API/History/GetTopJackpot?top=30"
+        }
+    },
+    {
+        "id": 43,
+        "version": 1,
+        "gameType": 4,
+        "name": "Poker",
+        "icon": {
+            "type": 1,
+            "name": "mini_43"
+        },
+        "is_biggame": true,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "main": "poker",
+        "api": {
+            "negotiate": "https://texaspoker.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://texaspoker.b24core.com/signalr/connect",
+            "hub": "pokerHub"
+        }
+    },
+    {
+        "id": 49,
+        "version": 1,
+        "gameType": 4,
+        "name": "Tien len mien nam",
+        "icon": {
+            "type": 1,
+            "name": "ictienlenmiennam"
+        },
+        "is_biggame": true,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "is_framegame": false,
+        "main": "TlmnSceneSolo",
+        "api": {
+            "negotiate": "https://tlmndemla.b24core.com/signalr/negotiate",
+            "wsUrl": "wss://tlmndemla.b24core.com/signalr/connect",
+            "hub": "tienlenHub"
+        }
+    },	
+	    {
+        "id": 51,
+        "version": 1,
+        "gameType": 5,
+        "name": "B29 Bet",
+        "icon": {
+            "type": 1,
+            "name": "bongbti"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "is_framegame": true,
+        "main": "FrameScene",
+        "is_beta": true,
+        "toast_beta": "Game sắp ra mắt",
+        "toast_note": "Tài khoản B29 Bet dùng để chơi game betting bóng tỉ lệ cược DEC",
+        "min": 100000,
+        "max": 100000000,
+        "note": "Chuyển vào 100.000B = 83. Tối thiểu 100.000B,\n tối đa 100M B.Chuyển ra 83 = 100.000B.\nHệ thống sẽ tự động hoàn trả phần tiền thừa.",
+        "api": {
+            "getAccountInfo": "https://bti.b24core.com/api/game/GetAccountInfo",
+            "deposit": "https://bti.b24core.com/api/game/TopupToBtiPlayer?amount=",
+            "withdraw": "https://bti.b24core.com/api/game/WithDrawalBtiPlayer?amount=",
+            "getLink": "https://bti.b24core.com/api/game/GetGamePlay"
+        }
+    },
+    {
+        "id": 50,
+        "version": 1,
+        "gameType": 2,
+        "name": "Live Football",
+        "icon": {
+            "type": 1,
+            "name": "livebongda"
+        },
+        "is_biggame": false,
+        "is_jackpot": false,
+        "maintain": false,
+        "trend": "",
+        "is_framegame": false,
+        "main": "/LiveFootBall/LiveFootBall",
+        "api": {
+            "matches": "https://fblive.b24core.com/api/matches",
+            "UrlVideo": "https://live.b24core.com/?UrlVideo="
+        }
+    }
+
+
+]

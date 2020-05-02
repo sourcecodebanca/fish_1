@@ -1,0 +1,41 @@
+
+thangno.png
+size: 1028,825
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as1
+  rotate: false
+  xy: 2, 2
+  size: 416, 416
+  orig: 416, 416
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 2, 576
+  size: 1024, 247
+  orig: 1024, 247
+  offset: 0, 0
+  index: -1
+nohu
+  rotate: false
+  xy: 420, 177
+  size: 554, 241
+  orig: 554, 241
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 420, 25
+  size: 598, 150
+  orig: 598, 150
+  offset: 0, 0
+  index: -1
+thángieulon
+  rotate: false
+  xy: 2, 420
+  size: 843, 154
+  orig: 843, 154
+  offset: 0, 0
+  index: -1

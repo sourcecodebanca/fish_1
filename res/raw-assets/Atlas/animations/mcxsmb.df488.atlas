@@ -1,0 +1,41 @@
+
+mcxsmb.png
+size: 219,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S
+  rotate: true
+  xy: 166, 19
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+bgsoxo
+  rotate: false
+  xy: 2, 61
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 115, 14
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ố
+  rotate: false
+  xy: 2, 2
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+ổ
+  rotate: true
+  xy: 53, 12
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1

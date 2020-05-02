@@ -1,0 +1,20 @@
+
+icvip1.png
+size: 124,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rank
+  rotate: false
+  xy: 2, 2
+  size: 59, 58
+  orig: 60, 59
+  offset: 0, 1
+  index: -1
+Rank2
+  rotate: false
+  xy: 63, 2
+  size: 59, 58
+  orig: 60, 59
+  offset: 0, 1
+  index: -1

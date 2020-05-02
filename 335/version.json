@@ -1,0 +1,14 @@
+{
+    "date": "2020-03-03",
+    "buildNumber": "335",
+    "sw-arcadia-client-core": "0.0.61",
+    "sw-arcadia-client-core-pixi": "0.0.104",
+    "sw-client-env": "1.3.0",
+    "sw-core": "11.0.0",
+    "sw-font-parser": "0.0.2",
+    "sw-lang-report": "0.0.0",
+    "sw-money-formatter": "0.0.4",
+    "sw-runtime": "11.0.0",
+    "sw-size-report": "1.3.0",
+    "in-game-wrapper": "6.21.0"
+}

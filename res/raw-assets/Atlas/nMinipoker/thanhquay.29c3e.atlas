@@ -1,0 +1,41 @@
+
+thanhquay.png
+size: 358,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mui ten
+  rotate: false
+  xy: 208, 2
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+otron
+  rotate: true
+  xy: 323, 26
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+thanhdai
+  rotate: true
+  xy: 120, 19
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+tron
+  rotate: false
+  xy: 265, 5
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+truc
+  rotate: true
+  xy: 2, 11
+  size: 51, 116
+  orig: 51, 116
+  offset: 0, 0
+  index: -1

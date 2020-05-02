@@ -1,0 +1,48 @@
+
+mxocdia.png
+size: 493,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bat
+  rotate: true
+  xy: 387, 60
+  size: 139, 104
+  orig: 139, 106
+  offset: 0, 1
+  index: -1
+bgxocxia
+  rotate: false
+  xy: 2, 2
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+dia
+  rotate: false
+  xy: 219, 77
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 219, 6
+  size: 170, 52
+  orig: 170, 52
+  offset: 0, 0
+  index: -1
+vido
+  rotate: false
+  xy: 391, 38
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+vitrang
+  rotate: false
+  xy: 391, 16
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1

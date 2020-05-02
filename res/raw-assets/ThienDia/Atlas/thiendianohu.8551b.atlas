@@ -1,0 +1,27 @@
+
+thiendianohu.png
+size: 1251,834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: true
+  xy: 662, 200
+  size: 632, 587
+  orig: 632, 587
+  offset: 0, 0
+  index: -1
+nohu
+  rotate: false
+  xy: 662, 2
+  size: 508, 196
+  orig: 508, 196
+  offset: 0, 0
+  index: -1
+tien
+  rotate: false
+  xy: 2, 178
+  size: 658, 654
+  orig: 658, 654
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+iteambonus.png
+size: 483,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgiteam
+  rotate: false
+  xy: 2, 4
+  size: 200, 192
+  orig: 200, 192
+  offset: 0, 0
+  index: -1
+bongtai
+  rotate: true
+  xy: 299, 54
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+daumeo
+  rotate: true
+  xy: 372, 56
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+dauran
+  rotate: false
+  xy: 383, 26
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+mommeo
+  rotate: false
+  xy: 204, 41
+  size: 93, 30
+  orig: 93, 30
+  offset: 0, 0
+  index: -1
+thanng
+  rotate: false
+  xy: 204, 73
+  size: 166, 123
+  orig: 166, 123
+  offset: 0, 0
+  index: -1
+txtbonus
+  rotate: false
+  xy: 204, 2
+  size: 177, 37
+  orig: 177, 37
+  offset: 0, 0
+  index: -1

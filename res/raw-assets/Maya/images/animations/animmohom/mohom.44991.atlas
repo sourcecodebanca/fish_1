@@ -1,0 +1,34 @@
+
+mohom.png
+size: 632,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 2, 4
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: -1
+hom1
+  rotate: false
+  xy: 305, 2
+  size: 170, 140
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+hom2
+  rotate: true
+  xy: 477, 135
+  size: 169, 153
+  orig: 170, 160
+  offset: 1, 0
+  index: -1
+hom3
+  rotate: false
+  xy: 305, 144
+  size: 168, 160
+  orig: 170, 160
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Loadinglogo.png
+size: 459,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 220, 151
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 308, 151
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 174, 151
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 197, 151
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 2, 2
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 242, 151
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 264, 151
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 149, 151
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+as
+  rotate: true
+  xy: 149, 236
+  size: 173, 158
+  orig: 173, 158
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 259, 22
+  size: 165, 127
+  orig: 165, 127
+  offset: 0, 0
+  index: -1
+khay
+  rotate: false
+  xy: 149, 179
+  size: 201, 55
+  orig: 201, 55
+  offset: 0, 0
+  index: -1
+khungquay
+  rotate: true
+  xy: 259, 5
+  size: 15, 21
+  orig: 17, 23
+  offset: 1, 1
+  index: -1
+loadinglogo copy
+  rotate: false
+  xy: 30, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mainlogo
+  rotate: true
+  xy: 2, 149
+  size: 260, 145
+  orig: 260, 145
+  offset: 0, 0
+  index: -1
+mainlogobg
+  rotate: false
+  xy: 2, 13
+  size: 255, 134
+  orig: 255, 134
+  offset: 0, 0
+  index: -1
+thanh
+  rotate: true
+  xy: 41, 8
+  size: 3, 15
+  orig: 5, 17
+  offset: 1, 1
+  index: -1
+topas
+  rotate: true
+  xy: 352, 177
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+tron
+  rotate: false
+  xy: 282, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+u
+  rotate: false
+  xy: 286, 151
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+xeng
+  rotate: true
+  xy: 309, 249
+  size: 160, 148
+  orig: 160, 148
+  offset: 0, 0
+  index: -1

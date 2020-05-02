@@ -1,0 +1,55 @@
+
+xhuminipoker.png
+size: 635,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GoldIcon01
+  rotate: true
+  xy: 566, 10
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+GoldIcon02
+  rotate: false
+  xy: 206, 54
+  size: 195, 106
+  orig: 195, 106
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 2, 2
+  size: 202, 158
+  orig: 202, 158
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 493, 11
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 403, 3
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 403, 83
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 495, 83
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1

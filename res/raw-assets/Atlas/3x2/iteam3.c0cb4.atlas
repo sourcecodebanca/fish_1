@@ -1,0 +1,48 @@
+
+iteam3.png
+size: 356,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iteam30
+  rotate: true
+  xy: 2, 2
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+iteam31
+  rotate: true
+  xy: 114, 2
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+iteam32
+  rotate: false
+  xy: 136, 117
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+iteam33
+  rotate: false
+  xy: 246, 117
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+iteam34
+  rotate: false
+  xy: 226, 5
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+iteam3nen
+  rotate: false
+  xy: 2, 112
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1

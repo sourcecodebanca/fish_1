@@ -1,0 +1,48 @@
+
+xhupanda.png
+size: 520,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 2, 5
+  size: 202, 158
+  orig: 202, 158
+  offset: 0, 0
+  index: -1
+hu
+  rotate: true
+  xy: 439, 2
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+hupanda
+  rotate: false
+  xy: 206, 54
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 440, 75
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 348, 86
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 348, 7
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1

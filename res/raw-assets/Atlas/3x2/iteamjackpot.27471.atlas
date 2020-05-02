@@ -1,0 +1,69 @@
+
+iteamjackpot.png
+size: 1663,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iteam3nen
+  rotate: true
+  xy: 1546, 54
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+wild1
+  rotate: false
+  xy: 2, 2
+  size: 191, 184
+  orig: 191, 184
+  offset: 0, 0
+  index: -1
+wild2
+  rotate: false
+  xy: 195, 2
+  size: 191, 184
+  orig: 191, 184
+  offset: 0, 0
+  index: -1
+wild3
+  rotate: false
+  xy: 388, 2
+  size: 191, 184
+  orig: 191, 184
+  offset: 0, 0
+  index: -1
+wild4
+  rotate: false
+  xy: 581, 2
+  size: 191, 184
+  orig: 191, 184
+  offset: 0, 0
+  index: -1
+wild5
+  rotate: false
+  xy: 774, 2
+  size: 191, 184
+  orig: 191, 184
+  offset: 0, 0
+  index: -1
+wild6
+  rotate: false
+  xy: 967, 2
+  size: 191, 184
+  orig: 191, 184
+  offset: 0, 0
+  index: -1
+wild7
+  rotate: false
+  xy: 1160, 2
+  size: 191, 184
+  orig: 191, 184
+  offset: 0, 0
+  index: -1
+wild8
+  rotate: false
+  xy: 1353, 2
+  size: 191, 184
+  orig: 191, 184
+  offset: 0, 0
+  index: -1

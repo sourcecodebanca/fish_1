@@ -1,0 +1,41 @@
+
+micbaucua.png
+size: 486,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dice1
+  rotate: false
+  xy: 391, 19
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+dice2
+  rotate: false
+  xy: 382, 96
+  size: 102, 111
+  orig: 102, 111
+  offset: 0, 0
+  index: -1
+dice3
+  rotate: false
+  xy: 219, 57
+  size: 161, 150
+  orig: 161, 150
+  offset: 0, 0
+  index: -1
+nengame
+  rotate: false
+  xy: 2, 10
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 219, 2
+  size: 170, 53
+  orig: 170, 53
+  offset: 0, 0
+  index: -1
